@@ -1,0 +1,6 @@
+{
+  "name": "Nella Café — COFFEE - BAR | Pucallpa",
+  "description": "Oasis Botánico Urbano y Coffee-Bar frente a la Plaza de Armas de Pucallpa (Jr. Tarapacá 679). Desayuno amazónico, cold brew de camu camu, almuerzos, postres y noches de café-bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
