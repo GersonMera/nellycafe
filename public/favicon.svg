@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#003851" />
+  <!-- Barra superior en Amarillo Botánico -->
+  <line x1="16" y1="13" x2="38" y2="13" stroke="#EED902" stroke-width="3.5" stroke-linecap="round" />
+  <!-- Letra N emblemática de Nella Café -->
+  <path d="M16 50 V20 H25.5 L38.5 40 V20 H48 V50 H38.5 L25.5 30 V50 Z" fill="#EED902" />
+  <!-- Hojitas botánicas que brotan del asta derecha -->
+  <path d="M47 20 C43 11 48 4 52 7 C55 10 52 16 48 20 Z" fill="#EED902" />
+  <path d="M49 20 C54 12 62 10 62 16 C62 21 54 22 49 20 Z" fill="#EED902" />
+</svg>
+
